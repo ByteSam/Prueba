@@ -16,6 +16,8 @@ public class Projectnew {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+            NuevaClase ho = new NuevaClase(2,"juan");
+        
     }
     
 }
